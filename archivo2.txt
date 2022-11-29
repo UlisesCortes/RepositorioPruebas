@@ -1,2 +1,0 @@
-comentario en archivo 2 modificado
-texto agregado despues del primer commit
