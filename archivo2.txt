@@ -1,1 +1,2 @@
 archvio creado despues del gitignore
+este es un comnetario despues de crear la ramab
