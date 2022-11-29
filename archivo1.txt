@@ -1,1 +1,2 @@
 Este es mi comentario
+Nuevo comentario despues de insertar el git ignore
